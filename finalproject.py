@@ -2,7 +2,7 @@
 
     CS051P Lab Assignments: Final Project
 
-    Author: Bailey Williams, Verrels Eugeneo
+    Author: Bailey Williams
 
     Date:   12/09/2022
 
